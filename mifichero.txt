@@ -1,0 +1,2 @@
+Mi fichero.txt con el comando vim
+
